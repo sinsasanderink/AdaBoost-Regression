@@ -51,3 +51,5 @@ print(f"R² Score: {r2score}, RMSE: {rmse}")
 # Example Output
 # R² Score: 0.49
 # RMSE: $219,185
+
+# As we can see, this model performs poorly and needs improvement.
